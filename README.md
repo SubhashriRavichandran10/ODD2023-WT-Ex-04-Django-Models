@@ -30,3 +30,6 @@ user_profile template page you can see the profile page of the user
 ![WhatsApp Image 2023-11-23 at 09 46 40_c55a1b99](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-04-Django-Models/assets/145743413/95f3a913-e39b-4e52-94c6-8780cf5c6491)
 
 # output
+![image](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-04-Django-Models/assets/145743413/5eb11586-245a-432e-b558-802f58bf0253)
+![image](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-04-Django-Models/assets/145743413/6ee296f8-b72f-4f95-95bc-0f204f6023ce)
+![image](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-04-Django-Models/assets/145743413/cf0fc27c-de4a-48be-829b-ae583376aab2)

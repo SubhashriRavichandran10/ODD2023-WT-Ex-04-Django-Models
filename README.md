@@ -33,3 +33,6 @@ user_profile template page you can see the profile page of the user
 ![image](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-04-Django-Models/assets/145743413/5eb11586-245a-432e-b558-802f58bf0253)
 ![image](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-04-Django-Models/assets/145743413/6ee296f8-b72f-4f95-95bc-0f204f6023ce)
 ![image](https://github.com/SubhashriRavichandran10/ODD2023-WT-Ex-04-Django-Models/assets/145743413/cf0fc27c-de4a-48be-829b-ae583376aab2)
+
+# result
+django models was successfully created
